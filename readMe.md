@@ -2,6 +2,8 @@
 
 This script provides functionality to train and evaluate a Multi-Layer Perceptron (MLP) and an Adversarial Autoencoder (AdvAE) for adversarial instance detection. It is highly configurable via command-line arguments for flexible usage.
 
+The paper is [Adversarial Detection and Correction by Matching Prediction Distributions](https://arxiv.org/abs/2002.09364)
+
 The script is implemented based on [Adversarial Auto-Encoder](https://docs.seldon.io/projects/alibi-detect/en/stable/ad/methods/adversarialae.html). An example is provided that works on [CIFAR10] dataset(https://docs.seldon.io/projects/alibi-detect/en/stable/examples/ad_ae_cifar10.html).
 
 ![](resource/adversarialae.png)
